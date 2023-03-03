@@ -1,7 +1,9 @@
 # 네트워크 스터디
 
 ## 스터디원
-
+<a href="https://github.com/minseojo/network-study/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=minseojo/network-study"/>
+</a> 
 
 ## 📖 교재
 
