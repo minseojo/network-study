@@ -2,7 +2,7 @@
 
 ## 스터디원
 <a href="https://github.com/minseojo/os-study/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=minseojo/os-study" />
+  <img src="https://contrib.rocks/image?repo=minseojo/network-study" />
 </a>
 
 ## 📖 교재
