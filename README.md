@@ -1,20 +1,32 @@
 # 네트워크 스터디
 
 ## 스터디원
-<li>
-<a href="https://github.com/minseojo">
-  <img src="https://avatars.githubusercontent.com/u/64322765?s=60&v=4"/>
-</a> 
-<a href="https://github.com/ekdud0529">
-  <img src="https://avatars.githubusercontent.com/u/45174177?s=60&v=4"/>
-</a> 
-<a href="https://github.com/jyj1111">
-  <img src="https://avatars.githubusercontent.com/u/89414343?s=60&v=4"/>
-</a> 
-<a href="https://github.com/Yunsik-Choi">
-  <img src="https://avatars.githubusercontent.com/u/60809936?s=60&v=4"/>
-</a> 
-</li>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/minseojo">
+      <img src="https://avatars.githubusercontent.com/u/64322765?s=60&v=4"/>
+      </a> 
+    </td>
+     <td>
+      <a href="https://github.com/ekdud0529">
+        <img src="https://avatars.githubusercontent.com/u/45174177?s=60&v=4"/>
+      </a> 
+    </td>
+     <td>
+      <a href="https://github.com/jyj1111">
+        <img src="https://avatars.githubusercontent.com/u/89414343?s=60&v=4"/>
+      </a> 
+    </td>
+     <td>
+      <a href="https://github.com/Yunsik-Choi">
+        <img src="https://avatars.githubusercontent.com/u/60809936?s=60&v=4"/>
+      </a>  
+    </td>
+  <tr>
+</table>
+
 ## 📖 교재
 
 [교재](https://product.kyobobook.co.kr/detail/S000000559644)
