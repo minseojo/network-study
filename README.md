@@ -6,7 +6,7 @@
   <tr>
     <td>
       <a href="https://github.com/minseojo">
-      <img src="https://avatars.githubusercontent.com/u/64322765?s=60&v=4"/>
+      <img src="https://avatars.githubusercontent.com/u/64322765?s=60&v=4/150x150"/>
       </a> 
     </td>
      <td>
