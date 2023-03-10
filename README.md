@@ -8,10 +8,10 @@
   <img src="https://avatars.githubusercontent.com/u/45174177?s=60&v=4"/>
 </a> 
 <a href="https://github.com/jyj1111">
-  <img src="https://avatars.githubusercontent.com/u/60809936?s=60&v=4"/>
+  <img src="https://avatars.githubusercontent.com/u/89414343?s=60&v=4"/>
 </a> 
 <a href="https://github.com/Yunsik-Choi">
-  <img src="https://avatars.githubusercontent.com/u/89414343?s=60&v=4"/>
+  <img src="https://avatars.githubusercontent.com/u/60809936?s=60&v=4"/>
 </a> 
 
 ## 📖 교재
