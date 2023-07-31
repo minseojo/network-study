@@ -7,7 +7,7 @@
   <img src="https://contrib.rocks/image?repo=minseojo/network-study" />
 </a>
 
-
+<--
 <a href="https://github.com/minseojo">
       <img src="https://avatars.githubusercontent.com/u/64322765?s=60&v=4/150x150" width="150" height="150"/>
       </a> 
@@ -17,7 +17,7 @@
 <a href="https://github.com/Yunsik-Choi">
         <img src="https://avatars.githubusercontent.com/u/60809936?s=60&v=4" width="150" height="150"/>
       </a>  
-
+-->
 
 ## 📖 교재
 
